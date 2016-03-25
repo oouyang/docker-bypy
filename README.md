@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Docker bypy
 =============
 
@@ -37,4 +36,3 @@ CMD="bypy syncup /local/dir/ /remote/dir/"
 docker pull $IMAGE
 docker run --rm  $IMAGE /bin/bash -c "$CMD"
 ```
->>>>>>> 382f0ac... Init commit
