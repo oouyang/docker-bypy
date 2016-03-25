@@ -1,7 +1,7 @@
 Docker bypy
 =============
 
-An python pyby toolbox in container. See Dockerfile.
+An python bypy toolbox in container. See Dockerfile.
 This repo triggers auto-build and push images to quay.io/alaska/bypy.
 
 To check Baidu bypy version
